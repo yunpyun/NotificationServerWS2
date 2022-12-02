@@ -1,0 +1,8 @@
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\NotificationServerWS.exe
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\appsettings.Development.json
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\appsettings.json
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\NotificationServerWS.dll
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\NotificationServerWS.deps.json
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\NotificationServerWS.runtimeconfig.json
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\NotificationServerWS.pdb
+C:\Users\Выймова Елена\Desktop\Материалы для работы\ПП\GitHub Repositories\Notification-Server-WS\NotificationServerWS\obj\Docker\publish\Newtonsoft.Json.dll
